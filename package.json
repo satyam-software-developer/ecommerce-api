@@ -1,0 +1,18 @@
+{
+  "name": "ecommerce-api",
+  "version": "1.0.0",
+  "description": "Ecommerce API for create , delete and update products",
+  "main": "app.js",
+  "scripts": {
+    "dev":"nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Satyam Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.1",
+    "mongoose": "^8.8.1",
+    "nodemon": "^3.1.7"
+  }
+}
