@@ -2,8 +2,8 @@
 
 The E-Commerce API provides a simple yet powerful backend solution for managing product inventory. Built with Node.js, Express.js, and MongoDB, it supports key operations like creating, updating, listing, and deleting products. The API is designed for scalability and ease of integration, with a clean, modular structure for future expansion. This project serves as a solid foundation for building more complex e-commerce systems.
 
-1. Git repository link:https://github.com/satyam-software-developer/todolist-react-app.git
-2. Hosted link: https://satyam-software-developer.github.io/todolist-react-app/
+1. Git repository link:https://github.com/satyam-software-developer/ecommerce-api.git
+2. Hosted link: https://ecommerce-api-3-8uvj.onrender.com/products
 
 # ABOUT
 
@@ -139,7 +139,7 @@ This project is licensed under the MIT License.
 
 ## DEMO
 
-- https://satyam-software-developer.github.io/todolist-react-app/
+- https://ecommerce-api-3-8uvj.onrender.com/products
 
 ## Author
 
