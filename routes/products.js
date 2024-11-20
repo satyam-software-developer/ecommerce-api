@@ -25,7 +25,7 @@ router.delete("/:productID", productsController.delete);
 // to remove the specified product from the database.
 
 // Route to update the quantity of a product
-router.post("/:productID/update_quantity/", productsController.updateQuantity);
+router.put("/:productID/update_quantity/", productsController.updateQuantity);
 // Handles POST requests to the "/:productID/update_quantity/" endpoint.
 // The route accepts a product ID as a parameter and a query parameter `number` to increment or decrement
 // the product's quantity. It invokes the `updateQuantity` method in the products controller to handle the operation.
